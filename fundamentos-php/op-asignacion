@@ -1,0 +1,11 @@
+<?php
+$numero=10; //Asignacion
+print $numero."-":
+$numero +=5; //Incremento
+print $numero."-":
+$numero -=3; //Decremento
+print $numero."-":
+$numero *=2; //Multiplicacion
+print $numero."-":
+$division /=4 //Division
+?>
